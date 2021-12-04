@@ -1,0 +1,9 @@
+.btn-des{
+    border: 1px solid rgb(45, 0, 104);
+    color:rgb(45, 0, 104);
+    margin:auto;
+}
+.btn-des:hover{
+    background-color:rgb(45, 0, 104);
+    color: white;
+}
