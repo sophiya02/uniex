@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uniex/static/css/main.ab2cfe73.chunk.css",
+    "main.js": "/uniex/static/js/main.d4a11161.chunk.js",
+    "main.js.map": "/uniex/static/js/main.d4a11161.chunk.js.map",
+    "runtime-main.js": "/uniex/static/js/runtime-main.f385c64d.js",
+    "runtime-main.js.map": "/uniex/static/js/runtime-main.f385c64d.js.map",
+    "static/js/2.19c4369b.chunk.js": "/uniex/static/js/2.19c4369b.chunk.js",
+    "static/js/2.19c4369b.chunk.js.map": "/uniex/static/js/2.19c4369b.chunk.js.map",
+    "index.html": "/uniex/index.html",
+    "static/css/main.ab2cfe73.chunk.css.map": "/uniex/static/css/main.ab2cfe73.chunk.css.map",
+    "static/js/2.19c4369b.chunk.js.LICENSE.txt": "/uniex/static/js/2.19c4369b.chunk.js.LICENSE.txt",
+    "static/media/undraw_login_re_4vu2.79872296.svg": "/uniex/static/media/undraw_login_re_4vu2.79872296.svg",
+    "static/media/undraw_online_ad_re_ol62.89f2af0b.svg": "/uniex/static/media/undraw_online_ad_re_ol62.89f2af0b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f385c64d.js",
+    "static/js/2.19c4369b.chunk.js",
+    "static/css/main.ab2cfe73.chunk.css",
+    "static/js/main.d4a11161.chunk.js"
+  ]
+}
